@@ -102,7 +102,15 @@ body {
 
 .block__column {
   border: 20px solid #5e5373;
-  /* margin: 0 0 20px 0; */
+}
+
+.block__column__1 {
+}
+
+.block__column__2 {
+}
+
+.block__column__3 {
 }
 
 .block__item {

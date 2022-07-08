@@ -55,27 +55,13 @@ body {
   align-items: center;
 }
 
-.auth__item,
 .navigation__item {
   list-style: none;
   font-size: 20px;
 }
 
-.auth {
-  display: flex;
-}
-
 .navigation__link {
   margin-left: 50px;
-}
-
-.auth__link {
-  margin-left: 30px;
-  color: #000000;
-}
-
-.auth__link__first {
-  margin-left: 200px;
 }
 
 .navigation__item:first-child {
@@ -83,6 +69,14 @@ body {
 }
 
 /*Main*/
+
+.main__description {
+  text-align: center;
+}
+
+.main__title {
+  display: inline-flex;
+}
 
 /* Footer */
 
@@ -103,6 +97,7 @@ body {
 .block__row {
   border: 20px solid #ece89d;
   display: flex;
+  margin: 10px;
 }
 
 .block__column {
@@ -114,5 +109,5 @@ body {
   background-color: #18b5a4;
   color: #fff;
   font-size: 50px;
-  padding: 40px;
+  padding: 30px 50px;
 }

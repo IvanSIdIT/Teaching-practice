@@ -93,3 +93,26 @@ body {
 .footer-wrapper {
   background-color: var(--primary-header-bg);
 }
+
+/* flex-box */
+
+.block {
+  text-align: center;
+}
+
+.block__row {
+  border: 20px solid #ece89d;
+  display: flex;
+}
+
+.block__column {
+  border: 20px solid #5e5373;
+  /* margin: 0 0 20px 0; */
+}
+
+.block__item {
+  background-color: #18b5a4;
+  color: #fff;
+  font-size: 50px;
+  padding: 40px;
+}

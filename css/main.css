@@ -67,6 +67,12 @@ body {
 
 /*Main*/
 
+main {
+  width: 1400px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
 .main-wrapper {
   flex: 1 1 auto;
 }

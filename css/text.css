@@ -1,0 +1,166 @@
+* {
+  margin: 0%;
+}
+
+.main-title {
+  width: 300px;
+  height: 28px;
+  color: #445161;
+  font-family: 'Arial';
+  font-size: 30px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 1.8em;
+  text-align: left;
+  /* Text style for "Ф, рилансе" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.p__1 {
+  width: 1114px;
+  height: 39px;
+  color: #333333;
+  font-family: 'Arial';
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 1.8;
+  text-align: left;
+  /* Text style for "П, оставь" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.secondary-title {
+  /* Style for "CSS. Свойс" */
+  width: 377px;
+  height: 23px;
+  color: #445161;
+  font-family: 'Arial';
+  font-size: 25px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 30px;
+  text-align: left;
+  /* Text style for "C, SS. Сво" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.p__2 {
+  /* Style for "Этот текст" */
+
+  height: 15px;
+  color: #333333;
+  font-family: 'Arial';
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 14px;
+  text-align: left;
+  /* Text style for "Э, тот тек" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.p__3 {
+  /* Style for "Этот текст" */
+  width: 832px;
+  height: 14px;
+  color: #ff0000;
+  font-family: 'Arial';
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 14px;
+  text-align: left;
+  /* Text style for "Э, тот тек" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.third-title {
+  /* Style for "Домашнее з" */
+  height: 18px;
+  color: #445161;
+  font-family: 'Arial';
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 30px;
+  text-align: left;
+  /* Text style for "Д, омашнее" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.p__4 {
+  /* Style for "Сверстай э" */
+  width: 1400px;
+  height: 14px;
+  color: #333333;
+  font-family: 'Arial';
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 14px;
+  text-align: right;
+  /* Text style for "С, верстай" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.p__5 {
+  /* Style for "Сверстай э" */
+  width: 641px;
+  height: 15px;
+  color: #333333;
+  font-family: 'Arial';
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 14px;
+  text-align: left;
+  text-transform: uppercase;
+  /* Text style for "С, верстай" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.p__6 {
+}
+
+.p__7 {
+}
+
+.p__8 {
+}
+
+.p__9 {
+}
+
+.p__10 {
+}
+
+.p__11 {
+}
+
+.p__12 {
+}

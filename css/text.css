@@ -2,22 +2,37 @@
   margin: 0%;
 }
 
+main {
+  font-size: 14px;
+}
+
 .main-title {
+  color: #445161;
+  font-size: 30px;
 }
 
 .p__1 {
+  color: #333333;
+  line-height: 25px;
 }
 
 .secondary-title {
+  color: #445161;
+  font-size: 25px;
+  line-height: 30px;
 }
 
 .p__2 {
+  color: #333333;
+  font-weight: 700;
 }
 
 .p__3 {
+  color: #ff0000;
 }
 
 .third-title {
+  color: #445161;
 }
 
 .p__4 {

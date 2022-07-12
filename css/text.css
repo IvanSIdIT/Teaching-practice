@@ -33,31 +33,51 @@ main {
 
 .third-title {
   color: #445161;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .p__4 {
+  color: #333333;
+  text-align: right;
 }
 
 .p__5 {
+  color: #333333;
+  text-transform: uppercase;
 }
 
 .p__6 {
+  color: #333333;
+  font-style: italic;
 }
 
 .p__7 {
+  color: #333333;
+  text-decoration: underline;
 }
 
 .p__8 {
+  text-align: center;
+  color: #333333;
 }
 
 .p__9 {
+  color: #333333;
+  font-size: 24px;
 }
 
 .p__10 {
+  color: #333333;
+  text-decoration: line-through;
 }
 
 .p__11 {
+  font-family: 'Times New Roman PSMT';
+  color: #333333;
 }
 
 .p__12 {
+  text-shadow: 1px 1px 1px #000000;
+  color: #333333;
 }

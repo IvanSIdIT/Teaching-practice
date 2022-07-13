@@ -88,9 +88,16 @@ main {
 /* Footer */
 
 .Footer {
-  height: 50px;
+  height: 70px;
 }
 
 .footer-wrapper {
   background-color: var(--primary-header-bg);
+  height: 70px;
+}
+
+.footer__text {
+  text-align: center;
+  margin-top: 25px;
+  font-size: 20px;
 }

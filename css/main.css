@@ -82,7 +82,9 @@ main {
 }
 
 .main__title {
-  display: inline-flex;
+  display: inline;
+  text-align: center;
+  font-size: 35px;
 }
 
 /* Footer */

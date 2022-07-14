@@ -1,6 +1,11 @@
 .main__block {
   border: 1px solid #000;
+  height: 50px;
+  overflow: auto;
 }
 
 .main__string {
+}
+
+img {
 }

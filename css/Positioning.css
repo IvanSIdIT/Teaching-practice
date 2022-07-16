@@ -13,4 +13,14 @@ img {
 
 .title {
   font-size: 30px;
+  text-align: center;
+}
+
+.list__item {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.list li:nth-child(1) {
+  color: tomato;
 }

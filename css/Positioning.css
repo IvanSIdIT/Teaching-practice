@@ -1,5 +1,5 @@
 .main__block {
-  border: 10px solid #000;
+  border: 5px solid #000;
   height: 50px;
   overflow: auto;
 }
@@ -8,4 +8,5 @@
 }
 
 img {
+  margin: 50px 0 0 0;
 }

@@ -51,20 +51,21 @@ main {
   text-transform: uppercase;
   letter-spacing: 2.8px;
   padding: 17px 59px 17px 30px;
-  border-radius: 20%;
+  border-radius: 40px;
 }
 
 .button:hover {
   background-color: #3a5856;
-  border-radius: 20%;
+  border-radius: 40px;
 }
 
 .button:active {
   background-color: #818181;
   box-shadow: none;
-  border-radius: 20%;
+  border-radius: 40px;
 }
 
+.main__text__2,
 .main__text {
   font-size: 18px;
   line-height: 28px;
@@ -76,8 +77,19 @@ main {
   margin-bottom: 30px;
 }
 
+.main__text__2,
 .main__text {
   margin: 0 0 30px 0;
+}
+
+.main__text::first-letter {
+  color: red;
+  font-style: bold;
+  font-size: 30px;
+}
+
+.main__text__2::first-line {
+  color: tomato;
 }
 
 .main__title {

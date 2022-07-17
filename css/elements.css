@@ -11,9 +11,48 @@ main {
   margin-bottom: 130px;
 }
 
+.main__item__2,
 .main__item {
   margin: 0 0 13px 0;
+  color: #273d46;
+  font-size: 20px;
+  line-height: 36px;
+  background: url('../images/check_icon.png') left no-repeat;
+  padding-left: 35px;
 }
+
+.main__item:nth-child(1) {
+  text-decoration: line-through;
+}
+
+.main__item:nth-child(2) {
+  font-weight: bold;
+}
+
+.main__item:nth-child(3) {
+  font-style: italic;
+}
+
+.main__item:nth-child(4) {
+  text-transform: uppercase;
+}
+
+.button {
+  color: #fff;
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+  background-color: rgba(128, 183, 179, 0.54);
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+  padding: 17px 59px 17px 30px;
+  background: url('../images/Shape_2.png') right no-repeat;
+}
+
+.button:hover {
+  background-color: #3a5856;
+}
+
+/*background-color: #3a5856;*/
 
 .button {
   margin-bottom: 30px;

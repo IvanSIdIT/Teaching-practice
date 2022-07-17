@@ -21,6 +21,12 @@ main {
   padding-left: 35px;
 }
 
+.main__item:hover,
+.main__item__2:hover {
+  background: url('../images/check_icon.svg') left no-repeat;
+  color: tomato;
+}
+
 .main__item:nth-child(1) {
   text-decoration: line-through;
 }
@@ -45,14 +51,26 @@ main {
   text-transform: uppercase;
   letter-spacing: 2.8px;
   padding: 17px 59px 17px 30px;
-  background: url('../images/Shape_2.png') right no-repeat;
+  border-radius: 20%;
 }
 
 .button:hover {
   background-color: #3a5856;
+  border-radius: 20%;
 }
 
-/*background-color: #3a5856;*/
+.button:active {
+  background-color: #818181;
+  box-shadow: none;
+  border-radius: 20%;
+}
+
+.main__text {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+/*font-size: 18px;*/
 
 .button {
   margin-bottom: 30px;

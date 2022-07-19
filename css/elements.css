@@ -46,16 +46,17 @@ main {
 .button {
   color: #fff;
   box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
-  background-color: rgba(128, 183, 179, 0.54);
+  background-color: #3a5856;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2.8px;
   padding: 17px 59px 17px 30px;
   border-radius: 40px;
+  /* background: url('../images/Shape_2.png') right no-repeat; */
 }
 
 .button:hover {
-  background-color: #3a5856;
+  background-color: #818181;
   border-radius: 40px;
 }
 

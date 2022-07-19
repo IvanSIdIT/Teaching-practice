@@ -1,6 +1,12 @@
 main {
   width: 1440px;
   font-size: 14px;
+  background-color: #e8e8e8;
+  margin-top: 0%;
+}
+
+.main-wrapper {
+  background-color: #e8e8e8;
 }
 
 .main__list {
@@ -50,7 +56,7 @@ main {
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2.8px;
-  padding: 17px 59px 17px 30px;
+  padding: 17px 38px 17px 30px;
   border-radius: 40px;
   /* background: url('../images/Shape_2.png') right no-repeat; */
 }
